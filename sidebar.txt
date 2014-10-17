@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tua:home|Door43 (tua)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tua|d43-tua repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tua/archive/master.zip|d43-tua.zip]]
+
+**Recent Changes**
+{{changes>ns = tua}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tua|Ethnologue data]]
+
